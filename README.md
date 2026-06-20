@@ -5,6 +5,9 @@
 Scrape projects from the 42 intra, download subject PDFs and build a markdown table with extracted data.
 Optionally scrape stack and instructions from subjects using AI (locally via Ollama).
 
+<img width="925" height="840" alt="Screenshot 2026-06-20 at 20 29 54" src="https://github.com/user-attachments/assets/6a654bbb-6e74-42cd-859e-cddde215705c" />
+
+
 ## Features
 
 - Scrape recommended projects list (default) or all 42cursus projects.
